@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "OkHjNpEu57n6fZDahAqmiksunv/0h2YE6L5R1DokcbtJqRfAGsG9PwFiRXogzIKVsCHWQla633ejqrha1LtllA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shubham.Pathania\\AutoMapper\\AutoMapperDemo\\AutoMapperDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shubham.Pathania\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Shubham.Pathania\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Shubham.Pathania\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shubham.Pathania\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Shubham.Pathania\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Shubham.Pathania\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shubham.Pathania\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shubham.Pathania\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
